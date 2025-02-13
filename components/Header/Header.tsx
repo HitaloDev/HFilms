@@ -1,6 +1,10 @@
 import { BiSolidCameraMovie } from "react-icons/bi";
+import {useTranslations} from 'next-intl';
 
 const Header = () => {
+
+  const t = useTranslations('HomePage');
+
   return (
     <div className="flex justify-center items-center relative z-50">
         <div className="flex justify-between max-lg:justify-center items-center py-5 w-full max-w-[1200px]">
@@ -11,7 +15,7 @@ const Header = () => {
             <div className="flex gap-5 text-white max-lg:hidden">
                 <h2>Home</h2>
                 <h2>Movies</h2>
-                <h2>TV Series</h2>
+                <h2>{t('title')}</h2>
             </div>
         </div>
     </div>
