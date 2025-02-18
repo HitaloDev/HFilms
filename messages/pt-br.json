@@ -1,0 +1,217 @@
+{
+    "Translations": {
+        "pt-br": "Português (Brasil)",
+        "es": "Espanhol",
+        "en": "Inglês",
+        "label": "Idioma",
+        "title": "Olá mundo!"
+    },
+
+    "HomePage": {
+        "Header": {
+            "item1": "Sua jornada",
+            "item2": "A Base que conquista",
+            "item3": "Metodologia"
+        },
+        "BannerMain": {
+            "title1": "O futuro do seu sucesso",
+            "title2": "digital começa aqui!",
+            "subtitle": "A única plataforma que une IA e estratégias para transformar sua presença no mercado digital.",
+            "button": "Descubra agora e transforme seu futuro"
+        },
+        "Section2": {
+            "titles": {
+                "title": "Desbloqueie o Caminho para o Sucesso",
+                "subtitle1": "Explore cada etapa",
+                "subtitle2": "que transforma influenciadores em líderes digitais.",
+                "subtitle3": "Cada passo é uma conquista."
+            },
+            "cards": {
+                "card1": {
+                    "title": "Entrevista & Diagnóstico Inicial",
+                    "subtitle": "Coletamos dados, entendemos seus desafios e traçamos o caminho ideal para o sucesso."
+                },
+                "card2": {
+                    "title": "Copywriting",
+                    "subtitle": "Definimos o conceito central da campanha, a mensagem que vai ressoar e converter."
+                },
+                "card3": {
+                    "title": "Narrative e Storytelling",
+                    "subtitle": "Transformamos dados em narrativas poderosas que conectam e engajam."
+                },
+                "card4": {
+                    "title": "Landing Page Customizada",
+                    "subtitle": "Páginas personalizadas que capturam, convertem e posicionam sua marca."
+                },
+                "card5": {
+                    "title": "Criativos",
+                    "subtitle": "Criamos criativos visuais e roteiros impactantes para engajar e converter."
+                },
+                "card6": {
+                    "title": "Notificações Customizadas & Suporte",
+                    "subtitle": "Automatizamos a comunicação para falar com o público no momento certo."
+                },
+                "card7": {
+                    "title": "Criação de Modelos AI Personalizados",
+                    "subtitle": "Modelos exclusivos de IA treinados para impulsionar sua campanha."
+                },
+                "card8": {
+                    "title": "Serão, ao todo, 17 módulos que desbloquearão o seu caminho para o sucesso."
+                }
+            },
+            "cta": {
+                "title": "A BASE DO NOSSO SUCESSO É CONSTRUIR O SEU",
+                "subtitle1": "Existimos para",
+                "subtitle2": "simplificar, desburocratizar e transformar o mercado de lançamentos digitais",
+                "subtitle3": ", ajudando influenciadores a escalarem seus negócios com facilidade. Mudamos histórias e proporcionamos oportunidades de crescimento e sucesso.",
+                "button": "Descubra agora e transforme seu futuro",
+                "buttonMD": "Descubra agora",
+                "cards": {
+                    "card1": {
+                        "title": "Transformação Real",
+                        "description": "Buscamos impactar de forma real e positiva a vida de nossos influenciadores, proporcionando a eles ferramentas e estratégias que permitem elevar o nível de seus negócios e transformar suas realidades."
+                    },
+                    "card2": {
+                        "title": "Sucesso sem barreiras",
+                        "description": "Comprometemo-nos a tornar o sucesso digital acessível para todos os influenciadores, com uma plataforma intuitiva e simplificada que remove barreiras e facilita o crescimento no mercado digital."
+                    },
+                    "card3": {
+                        "title": "Inovação Simples",
+                        "description": "Unimos tecnologia avançada, inteligência artificial, com uma abordagem simples e direta. Valorizamos a inovação que facilita o caminho, tornando o processo de lançamento digital intuitivo e prático para todos."
+                    }
+                }
+            }
+        },
+        "Form": {
+            "title": "O primeiro segredo dos grandes lançadores é seu - Resgate agora!",
+            "subtitle1": "Os primeiros 50 inscritos ganham o bônus exclusivo:",
+            "subtitle2": "Os Segredos dos Maiores",
+            "subtitle3": "Lançadores Digitais.",
+            "button": "Entrar agora",
+            "fields": {
+                "name": {
+                    "label": "Nome",
+                    "placeholder": "Nome completo"
+                },
+                "email": {
+                    "label": "E-mail",
+                    "placeholder": "Endereço de e-mail"
+                },
+                "phone": {
+                    "label": "Telefone",
+                    "placeholder": "Telefone"
+                },
+                "button": "Quero decolar",
+                "toasts": {
+                    "success": "✅ Bônus resgatado com sucesso",
+                    "description": "Redirecionando...",
+                    "errors": {
+                        "title": "Ocorreu um erro ao resgatar o seu bônus"
+                    }
+                }
+            }
+        },
+        "Section3": {
+            "title": "Por que a LaunchPad é a escolha certa?",
+            "accordion1": {
+                "title": "Gen AI Personalizada",
+                "subtitle": "Automação poderosa para criar campanhas personalizadas que convertem."
+            },
+            "accordion2": {
+                "title": "Alta Conversão",
+                "subtitle": "Landing pages projetadas para engajamento máximo."
+            },
+            "accordion3": {
+                "title": "Gestão Simplificada",
+                "subtitle": "Centralizamos todas as ferramentas necessárias para lançamentos digitais, eliminando a necessidade de múltiplas plataformas."
+            },
+            "accordion4": {
+                "title": "Tecnologia do Futuro",
+                "subtitle": "Ferramentas de ponta que entregam resultados reais."
+            }
+        },
+        "Section4": {
+            "title": "Você está olhando para o futuro.",
+            "subtitle": "Ele começa agora, com a LaunchPad Digital",
+            "button": "Descubra agora e transforme seu futuro",
+            "buttonMD": "Descubra agora"
+        },
+        "Footer": {
+            "links": {
+                "section1": "Sua Jornada",
+                "section2": "A Base que conquista",
+                "section3": "Metodologia",
+                "privacyPolicy": "Política de Privacidade",
+                "termsAndConditions": "Termos e Condições",
+                "copyright": "Todos os direitos reservados."
+            }
+        }
+    },
+    "Login": {
+        "title": "Boas-vindas",
+        "createAccount1": "Não tem uma conta?",
+        "createAccount2": "Criar aqui",
+        "forgotPassword": "Esqueci minha senha",
+        "form": {
+            "email": {
+                "label": "Endereço de e-mail",
+                "placeholder": "Endereço de e-mail"
+            },
+            "password": {
+                "label": "Senha",
+                "placeholder": "∗∗∗∗∗∗∗∗"
+            },
+            "button": "Fazer login",
+            "toasts": {
+                "success": "✅ Login realizado com sucesso",
+                "errors": {
+                    "title": "Erro ao fazer login",
+                    "description": "Por favor, tente novamente mais tarde.",
+                    "descriptionComplete": "Erro ao fazer login. Por favor, tente novamente.",
+                    "genericError": "Erro ao fazer login"
+                }
+            }
+        }
+    },
+    "HomeLogged": {
+        "Welcome": {
+            "title": "Seja Bem Vindo(a)",
+            "subtitle": "Pronto(a) para começar o seu caminho para o sucesso?"
+        },
+        "Sidebar": {
+            "home": "Home",
+            "launch": "Lançamentos",
+            "loggout": "Logout"
+        },
+        "Steps": {
+            "step1": {
+                "label": "Passo 01",
+                "subLabel": "Cadastro"
+            },
+            "step2": {
+                "label": "Passo 02",
+                "subLabel": "Entrevista"
+            },
+            "step3": {
+                "label": "Passo 03",
+                "subLabel": "Entrega dos Criativos"
+            }
+        },
+        "Main": {
+            "title": "Descubra o Potencial da Sua Estratégia",
+            "subtitle": "Vamos coletar as informações necessárias para desenvolver os seus criativos.",
+            "button": "Iniciar Entrevista"
+        },
+        "Questions": {
+            "checkIsSocial": "As redes sociais da minha empresa são: ",
+            "socialMedias": "As redes sociais da minha empresa são: ",
+            "success": "Entrevista enviada com sucesso! ✅",
+            "site": "A sua empresa já possui site?",
+            "analisys": "Entre em contato conosco. Analisaremos sua entrevista e definiremos o melhor plano para seus criativos.",
+            "phone": "Telefone",
+            "email": "Endereço de e-mail",
+            "sending": "Enviando...",
+            "send": "Enviar"
+        }
+    }
+}

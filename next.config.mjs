@@ -7,6 +7,10 @@ const nextConfig = {
     images: {
         domains: ["image.tmdb.org"],
     },
+    i18n: {
+        locales: ['en', 'es', 'pt'],
+        defaultLocale: 'pt',
+      },
 };
 
 export default withNextIntl(nextConfig);

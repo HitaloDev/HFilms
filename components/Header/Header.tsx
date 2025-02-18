@@ -1,5 +1,6 @@
 import { BiSolidCameraMovie } from "react-icons/bi";
 import {useTranslations} from 'next-intl';
+import LanguageSwitcher from "../LanguageSwitcher/LanguageSwitcher";
 
 const Header = () => {
 
@@ -16,6 +17,7 @@ const Header = () => {
                 <h2>Home</h2>
                 <h2>Movies</h2>
                 <h2>{t('title')}</h2>
+                <LanguageSwitcher />
             </div>
         </div>
     </div>
