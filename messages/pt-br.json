@@ -1,217 +1,572 @@
 {
-    "Translations": {
-        "pt-br": "Português (Brasil)",
-        "es": "Espanhol",
-        "en": "Inglês",
-        "label": "Idioma",
-        "title": "Olá mundo!"
+  "Translations": {
+    "pt-br": "Português (Brasil)",
+    "es": "Espanhol",
+    "en": "Inglês",
+    "label": "Idioma"
+  },
+  "HomePage": {
+    "Header": {
+      "aboutUs": "Sobre nós",
+      "solutions": "Soluções",
+      "plans": "Planos",
+      "faq": "FAQ",
+      "contact": "Contato",
+      "button": "Comece agora",
+      "login": "Login"
     },
-
-    "HomePage": {
-        "Header": {
-            "item1": "Sua jornada",
-            "item2": "A Base que conquista",
-            "item3": "Metodologia"
-        },
-        "BannerMain": {
-            "title1": "O futuro do seu sucesso",
-            "title2": "digital começa aqui!",
-            "subtitle": "A única plataforma que une IA e estratégias para transformar sua presença no mercado digital.",
-            "button": "Descubra agora e transforme seu futuro"
-        },
-        "Section2": {
-            "titles": {
-                "title": "Desbloqueie o Caminho para o Sucesso",
-                "subtitle1": "Explore cada etapa",
-                "subtitle2": "que transforma influenciadores em líderes digitais.",
-                "subtitle3": "Cada passo é uma conquista."
-            },
-            "cards": {
-                "card1": {
-                    "title": "Entrevista & Diagnóstico Inicial",
-                    "subtitle": "Coletamos dados, entendemos seus desafios e traçamos o caminho ideal para o sucesso."
-                },
-                "card2": {
-                    "title": "Copywriting",
-                    "subtitle": "Definimos o conceito central da campanha, a mensagem que vai ressoar e converter."
-                },
-                "card3": {
-                    "title": "Narrative e Storytelling",
-                    "subtitle": "Transformamos dados em narrativas poderosas que conectam e engajam."
-                },
-                "card4": {
-                    "title": "Landing Page Customizada",
-                    "subtitle": "Páginas personalizadas que capturam, convertem e posicionam sua marca."
-                },
-                "card5": {
-                    "title": "Criativos",
-                    "subtitle": "Criamos criativos visuais e roteiros impactantes para engajar e converter."
-                },
-                "card6": {
-                    "title": "Notificações Customizadas & Suporte",
-                    "subtitle": "Automatizamos a comunicação para falar com o público no momento certo."
-                },
-                "card7": {
-                    "title": "Criação de Modelos AI Personalizados",
-                    "subtitle": "Modelos exclusivos de IA treinados para impulsionar sua campanha."
-                },
-                "card8": {
-                    "title": "Serão, ao todo, 17 módulos que desbloquearão o seu caminho para o sucesso."
-                }
-            },
-            "cta": {
-                "title": "A BASE DO NOSSO SUCESSO É CONSTRUIR O SEU",
-                "subtitle1": "Existimos para",
-                "subtitle2": "simplificar, desburocratizar e transformar o mercado de lançamentos digitais",
-                "subtitle3": ", ajudando influenciadores a escalarem seus negócios com facilidade. Mudamos histórias e proporcionamos oportunidades de crescimento e sucesso.",
-                "button": "Descubra agora e transforme seu futuro",
-                "buttonMD": "Descubra agora",
-                "cards": {
-                    "card1": {
-                        "title": "Transformação Real",
-                        "description": "Buscamos impactar de forma real e positiva a vida de nossos influenciadores, proporcionando a eles ferramentas e estratégias que permitem elevar o nível de seus negócios e transformar suas realidades."
-                    },
-                    "card2": {
-                        "title": "Sucesso sem barreiras",
-                        "description": "Comprometemo-nos a tornar o sucesso digital acessível para todos os influenciadores, com uma plataforma intuitiva e simplificada que remove barreiras e facilita o crescimento no mercado digital."
-                    },
-                    "card3": {
-                        "title": "Inovação Simples",
-                        "description": "Unimos tecnologia avançada, inteligência artificial, com uma abordagem simples e direta. Valorizamos a inovação que facilita o caminho, tornando o processo de lançamento digital intuitivo e prático para todos."
-                    }
-                }
-            }
-        },
-        "Form": {
-            "title": "O primeiro segredo dos grandes lançadores é seu - Resgate agora!",
-            "subtitle1": "Os primeiros 50 inscritos ganham o bônus exclusivo:",
-            "subtitle2": "Os Segredos dos Maiores",
-            "subtitle3": "Lançadores Digitais.",
-            "button": "Entrar agora",
-            "fields": {
-                "name": {
-                    "label": "Nome",
-                    "placeholder": "Nome completo"
-                },
-                "email": {
-                    "label": "E-mail",
-                    "placeholder": "Endereço de e-mail"
-                },
-                "phone": {
-                    "label": "Telefone",
-                    "placeholder": "Telefone"
-                },
-                "button": "Quero decolar",
-                "toasts": {
-                    "success": "✅ Bônus resgatado com sucesso",
-                    "description": "Redirecionando...",
-                    "errors": {
-                        "title": "Ocorreu um erro ao resgatar o seu bônus"
-                    }
-                }
-            }
-        },
-        "Section3": {
-            "title": "Por que a LaunchPad é a escolha certa?",
-            "accordion1": {
-                "title": "Gen AI Personalizada",
-                "subtitle": "Automação poderosa para criar campanhas personalizadas que convertem."
-            },
-            "accordion2": {
-                "title": "Alta Conversão",
-                "subtitle": "Landing pages projetadas para engajamento máximo."
-            },
-            "accordion3": {
-                "title": "Gestão Simplificada",
-                "subtitle": "Centralizamos todas as ferramentas necessárias para lançamentos digitais, eliminando a necessidade de múltiplas plataformas."
-            },
-            "accordion4": {
-                "title": "Tecnologia do Futuro",
-                "subtitle": "Ferramentas de ponta que entregam resultados reais."
-            }
-        },
-        "Section4": {
-            "title": "Você está olhando para o futuro.",
-            "subtitle": "Ele começa agora, com a LaunchPad Digital",
-            "button": "Descubra agora e transforme seu futuro",
-            "buttonMD": "Descubra agora"
-        },
-        "Footer": {
-            "links": {
-                "section1": "Sua Jornada",
-                "section2": "A Base que conquista",
-                "section3": "Metodologia",
-                "privacyPolicy": "Política de Privacidade",
-                "termsAndConditions": "Termos e Condições",
-                "copyright": "Todos os direitos reservados."
-            }
-        }
+    "Banner": {
+      "title": "Sua marca, amplificada. Sua estratégia, automatizada",
+      "subtitle1": "Com a Genesis, conectamos criatividade humana à",
+      "subtitle2": "inteligência artificial",
+      "subtitle3": "para criar campanhas personalizadas, escaláveis e impactantes. Domine o futuro do marketing virtual com nosso workflow",
+      "button": "Saiba mais"
     },
-    "Login": {
-        "title": "Boas-vindas",
-        "createAccount1": "Não tem uma conta?",
-        "createAccount2": "Criar aqui",
-        "forgotPassword": "Esqueci minha senha",
-        "form": {
-            "email": {
-                "label": "Endereço de e-mail",
-                "placeholder": "Endereço de e-mail"
-            },
-            "password": {
-                "label": "Senha",
-                "placeholder": "∗∗∗∗∗∗∗∗"
-            },
-            "button": "Fazer login",
-            "toasts": {
-                "success": "✅ Login realizado com sucesso",
-                "errors": {
-                    "title": "Erro ao fazer login",
-                    "description": "Por favor, tente novamente mais tarde.",
-                    "descriptionComplete": "Erro ao fazer login. Por favor, tente novamente.",
-                    "genericError": "Erro ao fazer login"
-                }
-            }
+    "Section2": {
+      "about": "SOBRE",
+      "us": "NÓS",
+      "cards": {
+        "card1": {
+          "title": "Transformando marcas com inteligência, tecnologia e criatividade",
+          "description": "No Genesis.ai, acreditamos que o marketing digital não se trata só de números e métricas. Com estratégias personalizadas, priorizamos os traços da marca gerando a identidade sonora ideal para o seu negócio. Utilizando também o poder da inteligência artificial com criatividade humana para entregar todos os objetivos propostos aos potencializando negócios."
+        },
+        "card2": {
+          "title": "O que nos torna",
+          "title2": "Unico?",
+          "description": "Enquanto muitos veem a IA como apenas uma ferramenta, nós a enxergamos como uma parceira estratégica. Nosso time desenvolveu todo o potencial criativo das marcas, sem idade emocional. Combinamos a precisão analítica de todas as interfaces e escalar suas campanhas como método contínuo e evolutivo para alcançar resultados reais."
         }
+      }
     },
-    "HomeLogged": {
-        "Welcome": {
-            "title": "Seja Bem Vindo(a)",
-            "subtitle": "Pronto(a) para começar o seu caminho para o sucesso?"
+    "Benefits": {
+      "title": "Gen AI para",
+      "title2": "escalabilidade"
+    },
+    "HomeForm2": {
+      "title": "Inscrições para a lista de espera encerram em:",
+      "button": "Quero Liderar o Amanhã"
+    },
+    "Methodologies": {
+      "title": "Metodologias Comprovadas",
+      "description": "Baseamos nossas estratégias em frameworks amplamente validados por especialistas que redefiniram a maneira de lançar produtos e criar resultados expressivos no mercado digital.",
+      "cards": {
+        "card1": {
+          "description": "Estruturas consolidadas para criação de antecipação e engajamento, que já provaram eficácia em milhares de lançamentos ao redor do mundo."
+      },
+        "card2": {
+          "description": "Modelos que utilizam psicologia do consumidor para alinhar o produto ao desejo do público, aumentando a probabilidade de conversão."
         },
-        "Sidebar": {
-            "home": "Home",
-            "launch": "Lançamentos",
-            "loggout": "Logout"
+        "card3": {
+          "description": "Estratégias utilizadas por pioneiros na construção de autoridade digital, otimizadas para escalar negócios de qualquer porte."
         },
-        "Steps": {
-            "step1": {
-                "label": "Passo 01",
-                "subLabel": "Cadastro"
-            },
-            "step2": {
-                "label": "Passo 02",
-                "subLabel": "Entrevista"
-            },
-            "step3": {
-                "label": "Passo 03",
-                "subLabel": "Entrega dos Criativos"
-            }
+        "card4": {
+          "description": "Ferramentas de análise de dados para identificar padrões e antecipar comportamentos, permitindo ajustes dinâmicos em tempo real."
         },
-        "Main": {
-            "title": "Descubra o Potencial da Sua Estratégia",
-            "subtitle": "Vamos coletar as informações necessárias para desenvolver os seus criativos.",
-            "button": "Iniciar Entrevista"
+        "card5": {
+          "description": "Automação avançada que garante comunicação certeira e no momento ideal, criando uma experiência fluida para o cliente."
         },
-        "Questions": {
-            "checkIsSocial": "As redes sociais da minha empresa são: ",
-            "socialMedias": "As redes sociais da minha empresa são: ",
-            "success": "Entrevista enviada com sucesso! ✅",
-            "site": "A sua empresa já possui site?",
-            "analisys": "Entre em contato conosco. Analisaremos sua entrevista e definiremos o melhor plano para seus criativos.",
-            "phone": "Telefone",
-            "email": "Endereço de e-mail",
-            "sending": "Enviando...",
-            "send": "Enviar"
+        "card6": {
+          "description": "Soluções exclusivas desenvolvidas para otimizar custos operacionais, aumentar a eficiência da equipe e gerar crescimento escalável."
         }
+      },
+      "title2": "Tecnologia Exclusiva",
+      "description2": "Combinamos inteligência artificial e automações de última geração para criar campanhas personalizadas que maximizam resultados em cada etapa da jornada do cliente."
+    },
+    "ReleaseCount": {
+      "title": "Inscrições para a lista de espera encerram em:"
+    },
+    "HomeRoadmap": {
+      "title": "Sua Jornada para o Topo",
+      "title2": "Começa Aqui"
+    },
+    "TheBaseThatConquers": {
+      "title1": "A base que",
+      "title2": "Conquista",
+      "mission": "Missão",
+      "descriptionMission": "Empoderar influenciadores a transformar suas paixões em negócios prósperos, simplificando o sucesso com Gen AI",
+      "vision": "Visão",
+      "descriptionVision": "Liderar o mercado de lançamentos digitais, democratizando a tecnologia e redefinindo o futuro.",
+      "values": "Valores",
+      "descriptionValues1": "Transformação: Impacto real e duradouro.",
+      "descriptionValues2": "Acessibilidade: Sucesso sem barreiras.",
+      "descriptionValues3": "Inovação Simples: Tecnologia poderosa, ao alcance de todos."
+    },
+    "WhyDontYouCanYouWait": {
+      "cards": {
+        "card1": {
+          "title": "Gen AI Personalizada",
+          "description": "Automação inteligente para o seu sucesso."
+        },
+        "card2": {
+          "title": "Alta Conversa",
+          "description": "Landing pages projetadas para vender."
+        },
+        "card3": {
+          "title": "Gestão Simplificada",
+          "description": "Tudo em um só lugar."
+        },
+        "card4": {
+          "title": "Storytelling Único",
+          "description": "Sua voz ganha força e impacto."
+        },
+        "card5": {
+          "title": "Resultados Reais",
+          "description": "Do esforço à realização tangível."
+        },
+        "card6": {
+          "title": "Tecnologia do Futuro",
+          "description": "Ferramentas avançadas sem complicação."
+        }
+      },
+      "title": "Por que você não pode esperar?",
+      "description": "O mercado de lançamentos digitais está em constante evolução. Os primeiros a adotar a tecnologia Gen AI serão os líderes de amanhã. Não é só uma oportunidade. É um passo à frente."
+    },
+    "Section3": {
+      "title1": "NOSSAS",
+      "title2": "SOLUÇÕES",
+      "descriptionTitle": "O segredo:",
+      "description": "Um workflow inteligente que conecta criatividade, tecnologia e resultados",
+      "Solutions": {
+        "solution1": {
+          "title": "Planejamento estratégico automatizado",
+          "description": "Desenhado sob medida para o seu mercado."
+        },
+        "solution2": {
+          "title": "Criação de conteúdos visualmente impactantes",
+          "description": "Reforçam a identidade da sua marca."
+        },
+        "solution3": {
+          "title": "Landing pages com chatbots integrados",
+          "description": "Convertem visitantes em clientes."
+        },
+        "solution4": {
+          "title": "Dados que contam histórias",
+          "description": "Guiando decisões com confiança."
+        }
+      }
+    },
+    "Section4": {
+      "title": "COMO FAZEMOS:",
+      "items": {
+        "item1": {
+          "title": "Estratégias de Branding Personalizadas",
+          "description": "Construímos estratégias que potencializam sua marca, utilizando IA para ajustar cada detalhe às necessidades do seu público-alvo."
+        },
+        "item2": {
+          "title": "Campanhas de Marketing Inteligentes",
+          "description": "Planejamos, criamos e gerenciamos campanhas que combinam dados precisos com criatividade humana, garantindo resultados mensuráveis."
+        },
+        "item3": {
+          "title": "Criação Visual com IA",
+          "description": "Produzimos vídeos, imagens e conteúdos visuais de alta qualidade, incluindo avatares digitais personalizados, para destacar sua marca no mercado."
+        },
+        "item4": {
+          "title": "Dados em Tempo Real para Decisões Estratégicas",
+          "description": "Utilizamos inteligência artificial para monitorar e analisar dados em tempo real, permitindo ajustes precisos e decisões mais assertivas."
+        }
+      }
+    },
+    "Section5": {
+      "title1": "LIBERE TODO O POTENCIAL",
+      "title2": "DA SUA MARCA",
+      "description": "Cadastre-se gratuitamente e descubra como nossa plataforma, com inteligência artificial e estratégia personalizada, pode transformar sua marca em um verdadeiro case de sucesso.",
+      "button": "Quero liberar o potencial da minha marca"
+    },
+    "Section6": {
+      "title1": "NOSSO",
+      "title2": "PROPÓSITO.",
+      "cards": {
+        "card1": {
+          "title": "O QUE NOS MOVE",
+          "description": "Empoderar marcas e empresas de todos os tamanhos, oferecendo soluções digitais que sejam acessíveis, personalizáveis e que combinem o melhor da inteligência artificial com a criatividade humana."
+        },
+        "card2": {
+          "title": "ONDE QUEREMOS CHEGAR",
+          "description": "Ser reconhecidos como a referência global em inovação digital, liderando a transformação do marketing por meio de tecnologias de ponta que conectam marcas ao futuro."
+        },
+        "card3": {
+          "title": "O QUE NOS DEFINE",
+          "description1": {
+            "title": "Inovação Contínua: ",
+            "description": "Estamos sempre à frente, trazendo tecnologias que transformam mercados e criam novas possibilidades."
+          },
+          "description2": {
+            "title": "Parceria e Confiança: ",
+            "description": "Valorizamos relações sólidas, transparentes e baseadas na confiança mútua."
+          },
+          "description3": {
+            "title": "Resultados Tangíveis: ",
+            "description": "Nosso foco é gerar impacto real, com resultados claros e mensuráveis."
+          },
+          "description4": {
+            "title": "Humanização da IA: ",
+            "description": "Integramos tecnologia com empatia, mantendo o toque humano em tudo o que fazemos."
+          },
+          "description5": {
+            "title": "Acessibilidade: ",
+            "description": "Democratizamos o acesso às melhores ferramentas digitais, tornando a inovação possível para todos."
+          }
+        }
+      }
+    },
+    "Section7": {
+      "title": "Encontre o plano perfeito para sua marca",
+      "description": "Na Genesis, entendemos que cada marca está em uma etapa única da sua jornada. Por isso, criamos planos sob medida para atender às suas necessidades atuais e ajudar você aalcançar seus objetivos. Escolha o que mais combina com o momento da sua marca!",
+      "cards": {
+        "card1": {
+          "type": "Introdução",
+          "description": "Comece a construir sua presença online com uma abordagem inicial e estratégica.",
+          "features": {
+            "feature1": {
+              "topic": "Planejamento de campanha: ",
+              "text": "Criação de 1 mês do planejamento de marketing para 1 rede social, com fotos (publicação: 1x ao dia)."
+            },
+            "feature2": {
+              "topic": "Análise da marca no mercado: ",
+              "text": "Inclui análise da logomarca, cores, fontes e tom de voz."
+            },
+            "feature3": {
+              "topic": "Landing page personalizada: ",
+              "text": "Desenvolvimento de uma página de captura estratégica."
+            }
+          },
+          "price": "R$597",
+          "ctaText": "Comece agora"
+        },
+        "card2": {
+          "type": "Essencial",
+          "description": "O básico necessário para expandir sua marca e alcançar mais pessoas.",
+          "features": {
+            "feature1": {
+              "topic": "Planejamento de campanha: ",
+              "text": "Criação de 1 mês do planejamento de marketing para 2 redes sociais, com fotos e 4 vídeos (publicação: 1x ao dia)."
+            },
+            "feature2": {
+              "topic": "Análise da marca no mercado: ",
+              "text": "Inclui análise da logomarca, cores, fontes e tom de voz."
+            },
+            "feature3": {
+              "topic": "Landing page personalizada: ",
+              "text": "Desenvolvimento de uma página de captura estratégica conectada a um WhatsApp específico com chatbot."
+            }
+          },
+          "price": "R$1297",
+          "ctaText": "Comece agora"
+        },
+        "card3": {
+          "type": "Pro",
+          "description": "Para quem busca ir além, com impacto máximo e estratégias robustas.",
+          "features": {
+            "feature1": {
+              "topic": "Planejamento de campanha: ",
+              "text": "Criação de 1 mês do planejamento de marketing para 3 redes sociais, com fotos e 8 vídeos (publicação: 2x ao dia)."
+            },
+            "feature2": {
+              "topic": "Análise da marca no mercado: ",
+              "text": "Inclui análise da logomarca, cores, fontes e tom de voz."
+            },
+            "feature3": {
+              "topic": "Landing page personalizada: ",
+              "text": "Desenvolvimento de uma página de captura estratégica conectada a um WhatsApp específico para vendas com suporte via IA."
+            }
+          },
+          "price": "R$2997",
+          "ctaText": "Comece agora"
+        },
+        "card4": {
+          "type": "VIP",
+          "description": "Solução personalizada para atender às necessidades exclusivas da sua marca.",
+          "features": {
+            "feature1": {
+              "topic": "Consultoria especializada: ",
+              "text": "Sessão com um especialista em mídias sociais para criação da sua campanha."
+            },
+            "feature2": {
+              "topic": "Análise da marca no mercado: ",
+              "text": "Inclui análise da logomarca, cores, fontes e tom de voz."
+            },
+            "feature3": {
+              "topic": "Personalização completa: ",
+              "text": "Relatórios mensais",
+              "listTopic": {
+                "item1": "Escolha as redes sociais para sua campanha.",
+                "item2": "Defina a quantidade de vídeos e fotos.",
+                "item3": "Determine o número de publicações por dia.",
+                "item4": "Personalize a estrutura da sua landing page.",
+                "item5": "Configure o avatar de vendas ideal para o seu negócio."
+              }
+            },
+            "price": "Fale conosco",
+            "ctaText": "Marque uma conversa"
+          },
+          "price":"Fale conosco",
+          "ctaText":"Marque uma conversa"
+        }
+      }
+    },
+    "Questions": {
+      "title": "Perguntas frequentes",
+      "question1": {
+        "question": "O que é o Genesis BrandFlow?",
+        "answer": "O Genesis BrandFlow é um workflow exclusivo que combina inteligência artificial, criatividade humana e automação para criar campanhas personalizadas e escaláveis. Ele simplifica e potencializa o processo de planejamento, criação e execução de estratégias de marketing digital de alto impacto.",
+        "category": "Sobre o Genesis BrandFlow"
+      },
+      "question2": {
+        "question": "Quanto tempo leva para criar uma campanha no Genesis BrandFlow?",
+        "answer": "O tempo de criação varia conforme o pacote escolhido. Em geral, o planejamento e a execução inicial são concluídos em 7 a 15 dias úteis após o alinhamento das necessidades e objetivos.",
+        "category": "Funcionamento e Serviços"
+      },
+      "question3": {
+        "question": "Como é feita a análise da minha marca?",
+        "answer": "Nossa análise inclui o estudo da sua logomarca, paleta de cores, fontes e tom de voz. Utilizamos IA para identificar oportunidades de alinhamento com o público-alvo e fortalecer a identidade da marca.",
+        "category": "Tecnologia e Integrações"
+      },
+      "question4": {
+        "question": "Posso personalizar os pacotes disponíveis?",
+        "answer": "Sim! No pacote <strong>PrimeFlow</strong>, todos os aspectos da campanha podem ser personalizados, desde as redes sociais escolhidas até a quantidade de publicações, fotos e vídeos.",
+        "category": "Tecnologia e Integrações"
+      },
+      "question5": {
+        "question": "Como a inteligência artificial é utilizada no Genesis BrandFlow?",
+        "answer": "A IA é aplicada para analisar dados em tempo real, sugerir ajustes estratégicos, personalizar campanhas e criar conteúdos visuais impactantes, como vídeos e avatares digitais.",
+        "category": "Tecnologia e Integrações"
+      },
+      "question6": {
+        "question": "O chatbot integrado pode ser customizado para minha empresa?",
+        "answer": "Sim! Desenvolvemos chatbots 100% personalizados, alinhados ao tom de voz e às necessidades da sua marca, garantindo uma experiência única para seus clientes.",
+        "category": "Tecnologia e Integrações"
+      },
+      "question7": {
+        "question": "O Genesis BrandFlow oferece relatórios de desempenho?",
+        "answer": "Sim. Todas as campanhas incluem relatórios detalhados com métricas como alcance, engajamento e conversões, permitindo que você tome decisões estratégicas com base em dados.",
+        "category": "Tecnologia e Integrações"
+      },
+      "question8": {
+        "question": "Como funciona o pagamento?",
+        "answer": "O pagamento pode ser feito à vista ou parcelado, dependendo do pacote escolhido. As opções são apresentadas no momento da contratação.",
+        "category": "Pagamentos e Contratações"
+      },
+      "question9": {
+        "question": "Existe algum custo adicional além do valor do pacote?",
+        "answer": "Não. Todos os custos são detalhados na contratação. Personalizações extras (como modelos exclusivos) serão apresentadas como opções adicionais, caso você deseje.",
+        "category": "Pagamentos e Contratações"
+      },
+      "question10": {
+        "question": "Como entro em contato com a equipe da Genesis?",
+        "answer": "Você pode nos contatar por meio do formulário na página \"Contato\" ou enviar um e-mail. Nossa equipe está pronta para responder suas dúvidas e ajudar no que for necessário.",
+        "category": "Atendimento"
+      },
+      "question11": {
+        "question": "Meus dados estarão seguros na plataforma?",
+        "answer": "Sim! Levamos a segurança dos seus dados muito a sério. Utilizamos tecnologias avançadas de criptografia para proteger todas as informações armazenadas e transmitidas em nossa plataforma. Além disso, realizamos auditorias regulares para garantir que nossos sistemas estejam sempre atualizados e seguros.",
+        "category": "Segurança e Privacidade"
+      },
+      "question12": {
+        "question": "A Gênesis está em conformidade com a LGPD?",
+        "answer": "Sim, estamos totalmente em conformidade com as leis de proteção de dados aplicáveis, incluindo a LGPD. Isso significa que você tem total controle sobre seus dados, podendo acessar, corrigir ou excluir informações a qualquer momento.",
+        "category": "Segurança e Privacidade"
+      }
+    },
+    "Form": {
+      "title1": "Entrar em",
+      "title2": "contato",
+      "description": "Preencha o formulário e permita que nossa equipe conheça mais sobre você, sua marca e suas necessidades.Juntos, podemos transformar seu negócio em um case de sucesso com o poder do Genesis!",
+      "inputs": {
+        "name": {
+          "label": "Nome",
+          "placeholder": "Nome completo"
+        },
+        "phone": {
+          "label": "Telefone",
+          "placeholder": "Telefone"
+        },
+        "email": {
+          "label": "E-mail",
+          "placeholder": "Endereço de e-mail"
+        },
+        "message": {
+          "label": "Conte-nos sobre o que você precisa",
+          "placeholder": "Escreva aqui"
+        },
+        "button": "Enviar"
+      },
+      "validations": {
+        "fullName": "Campo obrigatório",
+        "phone": "Campo obrigatório",
+        "email": "Campo obrigatório",
+        "clientMessage": "Campo obrigatório",
+        "clientMessageMax": "Máximo de 500 caracteres"
+      },
+      "msgs": {
+        "success": "✅ Mensagem enviada com sucesso",
+        "error": "Ocorreu um erro ao enviar a mensagem"
+      }
+    },
+    "Footer": {
+      "login": "Login",
+      "aboutUs": "Sobre nós",
+      "solutions": "Soluções",
+      "faq": "FAQ",
+      "contact": "Contato",
+      "copyright": "Launchpad Genesis. Todos os direitos reservados.",
+      "privacity": "Política de Privacidade",
+      "terms": "Termos e condições"
     }
+  },
+  "Login": {
+    "title": "Boas vindas",
+    "noAccount": "Não tem uma conta?",
+    "login": "Fazer login",
+    "createAccount": "Criar aqui",
+    "forgotPassword": "Esqueci minha senha",
+    "form": {
+      "msgs": {
+        "success": "✅ Login realizado com sucesso",
+        "errorDefault": "Erro inesperado ao fazer login.",
+        "error": "Erro ao fazer login. Por favor, tente novamente mais tarde.",
+        "tryAgain": "Por favor, tente novamente mais tarde.",
+        "genericError": "Erro ao fazer login"
+      },
+      "validations": {
+        "email": "Por favor, insira um e-mail válido",
+        "password": "Senha é obrigatória"
+      },
+      "inputs": {
+        "email": {
+          "label": "Endereço de e-mail",
+          "placeholder": "Endereço de e-mail"
+        },
+        "password": {
+          "label": "Senha",
+          "placeholder": "∗∗∗∗∗∗∗∗"
+        },
+        "button": "Entrar"
+      }
+    }
+  },
+  "FormForgotPassword": {
+    "emailForgot": "Por favor, insira um e-mail válido",
+    "success": "✅ Link enviado com sucesso",
+    "sendEmail":"Enviamos um link de verificação",
+    "email": {
+      "label": "Endereço de e-mail",
+      "placeholder": "Endereço de e-mail"
+    }
+  },
+  "FormUploadImageEmailVerified": {
+    "emailForgot": "Por favor, insira um e-mail válido",
+    "senderLink": "✅ Link enviado com sucesso",
+    "completeRegister": "Finalize a configuração da sua conta e envie sua foto de perfil"
+  },
+  "FormNewPassword": {
+    "required": "Senha é obrigatória",
+    "passwordValidation": {
+      "minLength": "Mínimo de 8 caracteres",
+      "oneUppercase": "1 letra maiúscula",
+      "oneLowercase": "1 letra minúscula",
+      "oneNumber": "1 número",
+      "oneSpecial": "1 caractere especial (ex: !@#$%)"
+    },
+    "editPassword": "✅ Senha alterada com sucesso com sucesso"
+  },
+  "FormRecoverPassword": {
+    "codeRequired": "Código é obrigatório",
+    "inputRequired": "Preencha todos os campos",
+    "sendCode": "Acabamos de enviar o código de 6 dígitos para",
+    "yourEmail": "seu@email.com",
+    "inputCode": "digite-o abaixo:",
+    "code": "Código",
+    "verifyEmail": "Se você não recebeu o e-mail, verifique a pasta de spam"
+  },
+  "CreateAccount": {
+    "title": "Criar Conta",
+    "alreadyAccount": "Já tem uma conta?",
+    "registerNow": "Cadastrar agora",
+    "login": "Fazer login",
+    "form": {
+      "schema": {
+        "firstName": "Primeiro nome é obrigatório",
+        "lastName": "Sobrenome é obrigatório",
+        "email": "E-mail é obrigatório",
+        "phone": "Telefone é obrigatório",
+        "password": "Senha é obrigatória"
+      },
+      "msgs": {
+        "error": "Por favor, preencha todos os campos corretamente",
+        "errorServer": "Erro ao criar conta. Resposta inválida do servidor.",
+        "undefinedError": "Erro inesperado ao criar conta.",
+        "success": "✅ Cadastro realizado com sucesso",
+        "errorCreateAccount": "Erro ao criar conta",
+        "errorTryAgain": "Por favor, tente novamente mais tarde.",
+        "passwordValidation": {
+          "minLength": "Mínimo de 8 caracteres",
+          "oneUppercase": "1 letra maiúscula",
+          "oneLowercase": "1 letra minúscula",
+          "oneNumber": "1 número",
+          "oneSpecial": "1 caractere especial (ex: !@#$%)"
+        }
+      },
+      "inputs": {
+        "firstName": {
+          "label": "Primeiro nome",
+          "placeholder": "Primeiro nome"
+        },
+        "lastName": {
+          "label": "Sobrenome",
+          "placeholder": "Sobrenome"
+        },
+        "email": {
+          "label": "Endereço de e-mail",
+          "placeholder": "Endereço de e-mail"
+        },
+        "phone": {
+          "label": "Telefone",
+          "placeholder": "Telefone"
+        },
+        "password": {
+          "label": "Senha",
+          "placeholder": "∗∗∗∗∗∗∗∗"
+        },
+        "coupon": {
+          "label": "Cupom",
+          "placeholder": "Insira o cupom"
+        }
+      },
+      "verifyEmail": {
+        "title": "Vamos verificar seu e-mail",
+        "button": "Acessar login",
+        "back": "Voltar à página de cadastro",
+        "form": {
+          "sendEmail": "Enviamos um link de verificação para:",
+          "email": "***@email.com"
+        }
+      }
+    }
+  },
+  "Dashboard": {
+    "welcome": "Seja Bem-vindo(a)",
+    "already": "Pronto(a) para começar o seu caminho para o sucesso?",
+    "timeline": {
+      "step1": {
+        "stepLabel": "Passo 01",
+        "subLabel": "Cadastro"
+      },
+      "step2": {
+        "stepLabel": "Passo 02",
+        "subLabel": "Entrevista"
+      },
+      "step3": {
+        "stepLabel": "Passo 03",
+        "subLabel": "Entrega dos Criativos"
+      }
+    },
+    "timelineMessage": {
+      "title": "Descubra o Potencial da Sua Estratégia",
+      "description": "Vamos coletar as informações necessárias para desenvolver os seus criativos.",
+      "button": "Iniciar Entrevista"
+    },
+    "sidebar": {
+      "home": "Home",
+      "logout": "Logout"
+    }
+  }
 }

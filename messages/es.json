@@ -1,0 +1,11 @@
+{
+    "Translations": {
+        "pt-br": "Portugués (Brasil)",
+        "es": "Español",
+        "en": "Inglés",
+        "label": "Idioma"
+    },
+    "HomePage": {
+        "title": "Inicio"
+    }
+}

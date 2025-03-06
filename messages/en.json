@@ -1,7 +1,11 @@
 {
+    "Translations": {
+        "pt-br": "Portuguese (Brazil)",
+        "es": "Spanish",
+        "en": "English",
+        "label": "Language"
+    },
     "HomePage": {
-      "title": "Hello world",
-      "subtitle": "Translation test"
+        "title": "Home"
     }
-  }
-  
+}
